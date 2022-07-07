@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.sidelinesprint.com/sitemap-base.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sidelinesprint.com/home/sitemap-pages.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sidelinesprint.com/home/sitemap-posts.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sidelinesprint.com/home/sitemap-authors.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sidelinesprint.com/home/sitemap-tags.xml</loc>
+  </sitemap>
+</sitemapindex>
