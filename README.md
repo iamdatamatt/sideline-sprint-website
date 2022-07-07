@@ -21,13 +21,13 @@ Packages used:
 ## Screenshots
 
 ### Desktop Homepage
-![Sideline Sprint desktop homepage](/img/desktop-homepage.png)
+<img src="/img/desktop-homepage.png" width="480" style="border:1px solid silver;">
 
 ### Mobile Homepage
-<img src="/img/mobile-homepage.png" width="480">
+<img src="/img/mobile-homepage.png" width="480" style="border:1px solid silver;">
 
 ### News Article Homepage
-![Sideline Sprint news homepage](/img/news-homepage.png)
+<img src="/img/news-homepage.png" width="480" style="border:1px solid silver;">
 
 ### News Article
-![Sideline Sprint news article](/img/news-article.png)
+<img src="/img/news-article.png" width="480" style="border:1px solid silver;">
