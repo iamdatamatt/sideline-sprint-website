@@ -4,6 +4,7 @@
 
 # Sideline Sprint Main Website
 
+## Overview
 This repo contains code for the main website of Sideline Sprint.
 
 
@@ -13,4 +14,20 @@ Packages used:
 -   Postmark PHP SDK
 
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=e454f5674610&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
+## Architecture
+
+## Screenshots
+
+### Desktop Homepage
+![Sideline Sprint desktop homepage](/img/desktop-homepage.png)
+
+### Mobile Homepage
+![Sideline Sprint mobile homepage](/img/mobile-homepage.png)
+
+### News Article Homepage
+![Sideline Sprint news homepage](/img/news-homepage.png)
+
+### News Article
+![Sideline Sprint news article](/img/news-article.png)
