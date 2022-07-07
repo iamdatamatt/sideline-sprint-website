@@ -24,7 +24,7 @@ Packages used:
 ![Sideline Sprint desktop homepage](/img/desktop-homepage.png)
 
 ### Mobile Homepage
-![Sideline Sprint mobile homepage](/img/mobile-homepage.png)
+<img src="/img/mobile-homepage.png" width="480">
 
 ### News Article Homepage
 ![Sideline Sprint news homepage](/img/news-homepage.png)
