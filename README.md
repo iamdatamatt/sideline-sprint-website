@@ -17,6 +17,7 @@ Packages used:
 
 
 ## Architecture
+![Sideline Sprint architecture diagram](/img/architecture-diagram.png)
 
 ## Screenshots
 
