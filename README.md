@@ -4,21 +4,30 @@
 
 # Sideline Sprint Main Website
 
-## Overview
-This repo contains code for the main website of Sideline Sprint.
+## What was Sideline Sprint?
 
-### What was Sideline Sprint?
+Sideline Sprint was a daily sports email newsletter. The goal was to deliver the best of the sports world, directly to your inbox every weekday morning. Sideline Sprint was in operation from the beginning of 2021 up until March of 2022.
 
 ### What was my role?
 
+I served as a co-founder & the tech lead for the project (but also took on many other tasks as is often the case in startups).
+
 ### What did I do?
 
-I administered all the tools listed below.
-Ensured alignment on DMARC/DKIM/SPF/BIMI.
+During my time working on Sideline Sprint, I worked on a variety of unique tasks including but not limited to:
+- Build a website from scratch and leveraged cloud infrastructure so scaling was effortless
+- Ensured email alignment on DMARC/DKIM/SPF/BIMI to achieve best-in-class deliverability with an average open rate of ~50%
+- Posted all newsletters as articles to our site using Ghost to promote SEO
+- Monitored SEO and improved ranking/clicks drastically over our 1.5 years
+- Built a referral program from scratch so that readers could bring in others at a low cost per acquisition (CPA)
+- Designed the logo and graphics for the website, as well as merchandise for the referral program
+- Created a custom email template that looked great across all devices and setup a custom newsletter writing platform based on TinyMCE
+- Setup & administered all of the tools listed in the below sections
 
-### What did I accomplish?
+## What does this repo contain?
+This repo contains code for the main website of Sideline Sprint (i.e. what you would see when you visited https://www.sidelinesprint.com). This includes the tools used for our signup flow, pages for our referral program, and more. The front-end work leveraged the Bootstrap framework and the backend scripting was done using PHP.
 
-Packages used:
+## Packages used:
 
 - [Hashids](https://github.com/vinkla/hashids) (generating unique user IDs)
 - [Postmark PHP SDK](https://github.com/ActiveCampaign/postmark-php) (interacting with Postmark for sending confirmation emails)
@@ -26,7 +35,7 @@ Packages used:
 - [Ghost CMS](https://ghost.org/) (hosting our newsletters published to a blog for SEO purposes)
 - [Mailjet Markup Language (MJML)](https://mjml.io/) (creating our email templates)
 
-Other tools I used throughout the process of working on Sideline Sprint included:
+## Other tools I used
 
 - [DigitalOcean](https://www.digitalocean.com/) (cloud hosting platform for our website and database)
 - [Google Search Console](https://search.google.com/search-console/about) (SEO & search monitoring)
