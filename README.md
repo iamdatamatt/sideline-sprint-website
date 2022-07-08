@@ -6,13 +6,13 @@
 
 ## What was Sideline Sprint?
 
-Sideline Sprint was a daily sports email newsletter. The goal was to deliver the best of the sports world, directly to your inbox every weekday morning. Sideline Sprint was in operation from the beginning of 2021 up until March of 2022.
+Sideline Sprint was a daily sports email newsletter. The goal was to deliver the best of the sports world directly to your inbox every weekday morning. Sideline Sprint was in operation from the beginning of 2021 up until March of 2022.
 
-### What was my role?
+## What was my role?
 
 I served as a co-founder & the tech lead for the project (but also took on many other tasks as is often the case in startups).
 
-### What did I do?
+## What did I do?
 
 During my time working on Sideline Sprint, I worked on a variety of unique tasks including but not limited to:
 - Build a website from scratch and leveraged cloud infrastructure so scaling was effortless
