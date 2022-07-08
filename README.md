@@ -25,6 +25,7 @@ During my time working on Sideline Sprint, I worked on a variety of unique tasks
 - Setup & administered all of the tools listed in the below sections
 
 ## What does this repo contain?
+
 This repo contains code for the main website of Sideline Sprint (i.e. what you would see when you visited https://www.sidelinesprint.com). This includes the tools used for our signup flow, pages for our referral program, and more. The front-end work leveraged the Bootstrap framework and the backend scripting was done using PHP interacting with a PostgreSQL database.
 
 ## Packages used
