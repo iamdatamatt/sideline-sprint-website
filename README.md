@@ -15,29 +15,29 @@ I served as a co-founder & the tech lead for the project (but also took on many 
 ## What did I do?
 
 During my time working on Sideline Sprint, I worked on a variety of unique tasks including but not limited to:
-- Build a website from scratch and leveraged cloud infrastructure so scaling was effortless
+- Built a website from scratch and leveraged cloud infrastructure
 - Ensured email alignment on DMARC/DKIM/SPF/BIMI to achieve best-in-class deliverability with an average open rate of ~50%
-- Posted all newsletters as articles to our site using Ghost to promote SEO
-- Monitored SEO and improved ranking/clicks drastically over our 1.5 years
+- Posted all newsletters as articles to our Ghost blog to promote SEO
+- Monitored SEO and improved ranking/clicks drastically over our 1.5 years in operation
 - Built a referral program from scratch so that readers could bring in others at a low cost per acquisition (CPA)
 - Designed the logo and graphics for the website, as well as merchandise for the referral program
-- Created a custom email template that looked great across all devices and setup a custom newsletter writing platform based on TinyMCE
+- Created a custom responsive email template and setup a custom newsletter writing platform based on TinyMCE
 - Setup & administered all of the tools listed in the below sections
 
 ## What does this repo contain?
-This repo contains code for the main website of Sideline Sprint (i.e. what you would see when you visited https://www.sidelinesprint.com). This includes the tools used for our signup flow, pages for our referral program, and more. The front-end work leveraged the Bootstrap framework and the backend scripting was done using PHP.
+This repo contains code for the main website of Sideline Sprint (i.e. what you would see when you visited https://www.sidelinesprint.com). This includes the tools used for our signup flow, pages for our referral program, and more. The front-end work leveraged the Bootstrap framework and the backend scripting was done using PHP interacting with a PostgreSQL database.
 
-## Packages used:
+## Packages used
 
 - [Hashids](https://github.com/vinkla/hashids) (generating unique user IDs)
 - [Postmark PHP SDK](https://github.com/ActiveCampaign/postmark-php) (interacting with Postmark for sending confirmation emails)
 - [Bootstrap](https://getbootstrap.com/) (design of website)
-- [Ghost CMS](https://ghost.org/) (hosting our newsletters published to a blog for SEO purposes)
-- [Mailjet Markup Language (MJML)](https://mjml.io/) (creating our email templates)
 
 ## Other tools I used
 
 - [DigitalOcean](https://www.digitalocean.com/) (cloud hosting platform for our website and database)
+- [Ghost CMS](https://ghost.org/) (hosting our newsletters published to a blog for SEO purposes)
+- [Mailjet Markup Language (MJML)](https://mjml.io/) (creating our email templates)
 - [Google Search Console](https://search.google.com/search-console/about) (SEO & search monitoring)
 - [Google Analytics](https://analytics.google.com/) (monitoring website traffic & acquisition)
 - [Google Postmaster Tools](https://www.gmail.com/postmaster/) (monitoring email authentication & deliverability)
@@ -55,6 +55,8 @@ This repo contains code for the main website of Sideline Sprint (i.e. what you w
 - [Google Ads](https://ads.google.com/home/) (advertising campaigns)
 - [Reddit Ads](https://ads.reddit.com/) (advertising campaigns)
 - [Affinity Photo & Designer](https://affinity.serif.com/en-us/) (logo design, website graphics, social graphics)
+
+## Related works
 
 If you're interested in seeing the other work I did for Sideline Sprint, please take a look at the following repos:
 - [Sideline Sprint Tools Website](https://github.com/mrtrombley/sideline-sprint-tools)
